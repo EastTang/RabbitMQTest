@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0ad7cc5-97f5-4cc4-ad5e-410bc2451128" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pmnScIHn5dh2n1pk7isskInBH1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.testRunning" />
+    <property name="settings.editor.splitter.proportion" value="0.23108552" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tjd001" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.ConsumerCallback">
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.single2single.Consumer" />
+      <module name="RabbitMQTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerCallback" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.single2single.ConsumerCallback" />
+      <module name="RabbitMQTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.single2single.Producer" />
+      <module name="RabbitMQTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.BeanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RabbitMQTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test01" />
+      <option name="METHOD_NAME" value="BeanTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.ConsumerCallback" />
+        <item itemvalue="应用程序.Consumer" />
+        <item itemvalue="应用程序.Producer" />
+        <item itemvalue="JUnit.Test01.BeanTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0ad7cc5-97f5-4cc4-ad5e-410bc2451128" name="默认的" comment="" />
+      <created>1615797133552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615797133552</updated>
+      <workItem from="1615797135216" duration="235000" />
+      <workItem from="1615798407018" duration="14281000" />
+      <workItem from="1615816109918" duration="401000" />
+      <workItem from="1615816638014" duration="7572000" />
+      <workItem from="1615853041352" duration="3886000" />
+      <workItem from="1615857490590" duration="366000" />
+      <workItem from="1615858331210" duration="94000" />
+      <workItem from="1615858929314" duration="519000" />
+      <workItem from="1615865389856" duration="2000" />
+      <workItem from="1615895052978" duration="1378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="39" key="#com.intellij.ide.util.MemberChooser" timestamp="1615824221742">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="39" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1615824221742" />
+    <state x="121" y="0" key="#项目结构" timestamp="1615853074933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="121" y="0" key="#项目结构/0.0.1536.824@0.0.1536.824" timestamp="1615853074933" />
+    <state x="464" y="109" key="FileChooserDialogImpl" timestamp="1615816736573">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="464" y="109" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615816736573" />
+    <state width="1483" height="201" key="GridCell.Tab.0.bottom" timestamp="1615859453480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1615859453480" />
+    <state width="1483" height="201" key="GridCell.Tab.0.center" timestamp="1615859453480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1615859453480" />
+    <state width="1483" height="201" key="GridCell.Tab.0.left" timestamp="1615859453480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1615859453480" />
+    <state width="1483" height="201" key="GridCell.Tab.0.right" timestamp="1615859453480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1615859453480" />
+    <state x="183" y="0" key="Maven.ArtifactSearchDialog" timestamp="1615896054302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="183" y="0" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1615896054302" />
+    <state x="102" y="0" key="SettingsEditor" timestamp="1615896419405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="102" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615896419405" />
+    <state x="356" y="0" key="new project wizard" timestamp="1615815340667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1615815340667" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1615823419982">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1615823419982" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1615853425485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1615853425485" />
+  </component>
+</project>
