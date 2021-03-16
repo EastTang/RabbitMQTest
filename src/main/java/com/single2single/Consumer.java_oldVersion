@@ -1,0 +1,43 @@
+package com.single2single;
+
+import com.rabbitmq.client.*;
+
+import java.io.IOException;
+import java.util.concurrent.TimeoutException;
+
+public class Consumer {
+    public static final String QUEUE_NAME = "queue001";
+
+    public static void main(String[] args) throws IOException, TimeoutException, InterruptedException {
+        // 获取连接
+        Connection conn = ConnectionUtils.getConnection();
+        System.out.println("已获取到的连接：" + conn);
+
+        // 新建通道
+        Channel channel = conn.createChannel();
+
+        // 声明队列 （在明确知道本通道有这么一个队列的情况下，可以不声明）
+        // （这里可以理解为至少给定一个通道供消费者监听）
+        channel.queueDeclare(QUEUE_NAME, false, false, false, null);
+
+        QueueingConsumer consumer = new QueueingConsumer(channel);
+
+        channel.basicConsume(QUEUE_NAME, true, consumer);
+
+        while (true) {
+            QueueingConsumer.Delivery delivery = null;
+            try {
+                delivery = consumer.nextDelivery();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+                break;
+            }
+            Thread.sleep(3000);
+            String msg = new String(delivery.getBody());
+            System.out.println(msg);
+        }
+
+        channel.close();
+        conn.close();
+    }
+}
